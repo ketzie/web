@@ -348,10 +348,10 @@ div > nav > a > img {
         width: 100%;
     }
     /* EIND HEADER */
-
+}
 /* GROOT SCHERM*/
 
-@media(min-width: 992px) {
+@media (min-width: 992px) {
 
     /*HEADER*/
     header {

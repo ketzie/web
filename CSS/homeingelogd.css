@@ -207,7 +207,7 @@ main > section:first-of-type {
 }
 
 main > section:first-of-type > div:first-of-type {
-    margin-left: 5%;
+    margin-left: 0.5em;
     margin-top: 5em;
     padding-top: 1em;
 }
@@ -233,7 +233,7 @@ main > section:first-of-type > div:last-of-type > a {
     color: white;
     background-color: #FD376A;
     padding: 0.2em 0em 0.2em 0em;
-    margin-left: 5%;
+    margin-left: 0.5em;
     min-height: 1.5rem;
     width: 10em;
     line-height: 1.5;

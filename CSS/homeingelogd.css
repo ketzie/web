@@ -202,7 +202,7 @@ nav > a:hover,
 /*        NOW TRENDING         */
 
 main > section:first-of-type {
-    background-image: url('/Images/HomepageCover.png');
+    background-image: url('../Images/HomepageCover.png');
     background-position: left;
     background-repeat: no-repeat;
     background-size: cover;

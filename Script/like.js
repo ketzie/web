@@ -1,8 +1,9 @@
 /*jslint browser: true, devel: true, eqeq: true, plusplus: true, sloppy: true, vars: true, white: true*/
 /*eslint-env browser*/
 /*eslint 'no-console':0*/
+/* Met behulp van student Britt Klijn */
 
-var heart = document.querySelector('main svg');
+var heart = document.querySelector('main  svg');
 var text = document.querySelector('main ul li span');
 
 
